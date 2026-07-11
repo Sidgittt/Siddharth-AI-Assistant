@@ -3,7 +3,7 @@
 A personal AI Assistant that I'm building while learning Python and AI Engineering.
 
 Current Version:
-0.2
+0.3
 
 Current Features
 
